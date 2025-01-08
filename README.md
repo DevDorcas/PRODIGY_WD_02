@@ -8,6 +8,7 @@ A simple and interactive stopwatch application that allows users to measure and 
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Contribution](#contribution)
 - [Contact](#contact)
 
@@ -48,6 +49,9 @@ cd PRODIGY_WD_02
 4. Click the Laps button to record time intervals.
 5. Click Clear All button to start over.
 
+## Screenshot
+![stopwatch](https://github.com/user-attachments/assets/a1ddac3e-6a85-412b-916b-0ceb39a109e0)
+
 ## Contribution
 Contributions are welcome! Here's how you can help:
 1. Fork the repository.
@@ -66,7 +70,7 @@ git push origin feature-name
 5. Open a Pull request
 
 ## Contact
-- **Name**: [Dorcas Popoola]
+- **Name**: Dorcas Popoola
 - **Email**: popooladorcas89@gmail.com
 - **GitHub**: [devDorcas](https://github.com/devDorcas)
 
