@@ -2,13 +2,17 @@
 
 A simple and interactive stopwatch application that allows users to measure and record time with precision. The app includes essential features such as play, pause, reset, and laps.
 
+## Screenshot
+![stopwatch](https://github.com/user-attachments/assets/a1ddac3e-6a85-412b-916b-0ceb39a109e0)
+
+
 ## Table of Contents
+- [Screenshot](#screenshot)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshot](#screenshot)
 - [Contribution](#contribution)
 - [Contact](#contact)
 
@@ -48,9 +52,6 @@ cd PRODIGY_WD_02
 3. Click Reset to clear the time back to 0:0:0.
 4. Click the Laps button to record time intervals.
 5. Click Clear All button to start over.
-
-## Screenshot
-![stopwatch](https://github.com/user-attachments/assets/a1ddac3e-6a85-412b-916b-0ceb39a109e0)
 
 ## Contribution
 Contributions are welcome! Here's how you can help:
