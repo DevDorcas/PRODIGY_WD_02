@@ -11,6 +11,7 @@ A simple and interactive stopwatch application that allows users to measure and 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
@@ -32,6 +33,9 @@ A simple and interactive stopwatch application that allows users to measure and 
 To run this project locally, ensure you have the following:
 - A modern web browser (e.g., Chrome, Firefox, Edge).
 - (Optional) A code editor like VSCode.
+
+## Demo 
+You can access the live version of the Stopwatch App [here](https://prodigy02.netlify.app/)
 
 ## Installation 
 1. Clone the Repository
